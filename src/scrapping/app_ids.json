@@ -1,0 +1,5 @@
+[
+  {"bank":"CBE", "appId":"com.combanketh.mobilebanking"},
+  {"bank":"BOA", "appId":"com.boa.boaMobileBanking"},
+  {"bank":"Dashen", "appId":"com.dashen.dashensuperapp"}
+]
